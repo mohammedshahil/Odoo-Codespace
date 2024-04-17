@@ -10,6 +10,7 @@ sudo apt install postgresql postgresql-server-dev-all -y
 
 echo -e "\n---- Creating the ODOO PostgreSQL User  ----"
 sudo /etc/init.d/postgresql start
+echo "codespace ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/codespace
 sudo su - postgres -c "createuser -s odoo17" 2> /dev/null || true
 sudo -u postgres psql -c "ALTER USER odoo17 PASSWORD 'odoo';" 2> /dev/null || true
 
