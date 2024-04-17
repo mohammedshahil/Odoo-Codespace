@@ -2,3 +2,4 @@
 	path = odoo
 	url = https://github.com/odoo/odoo.git
 	branch = 17.0
+	shallow = true

@@ -3,7 +3,7 @@ sudo apt update
 sudo apt upgrade -y
 
 echo -e "\n---- Initializing submodules ----"
-git submodule init && git submodule update
+git submodule init && git submodule update --depth 1
 
 echo -e "\n---- Install PostgreSQL Server ----"
 sudo apt install postgresql postgresql-server-dev-all -y
