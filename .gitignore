@@ -284,10 +284,7 @@ Thumbs.db #thumbnail cache on Windows
 odoo-docker-dev/
 
 ### VisualStudioCode ###
-.vscode/*
-.vscode/
 !.vscode/tasks.json
-!.vscode/launch.json
 *.code-workspace
 
 ### VisualStudioCode Patch ###
@@ -297,7 +294,6 @@ odoo-docker-dev/
 
 ### vscode ###
 !.vscode/settings.json
-!.vscode/extensions.json
 
 ### Windows ###
 # Windows thumbnail cache files
