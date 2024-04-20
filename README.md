@@ -2,10 +2,11 @@
 
 #### 1. Create Codespace
 
-![jenkins4](https://github.com/mohammedshahil/Odoo-Codespaces/assets/33252126/56e2602f-8acb-46c3-ba48-61697db3711b)
+![codespace](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/9740cb32-8127-4278-91cb-a639094b89c6)
 
 #### 2. Install the suggested python extension
-![jenkins](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/dac25543-1429-4ae6-ab01-e3636e3b0429)
+
+![codespace2](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/8882f620-0361-4f0b-bdec-fb8ac24f256f)
 
 #### 3. Make the script executable
 ```
@@ -17,6 +18,6 @@ sudo ./odoo_codespace.sh
 ```
 ##### 5. Run and open Odoo in Browser
 
-![jenkins2](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/0e5c4866-3ba8-447e-bd0a-36733f38e219)
+![codespace3](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/c8abafa8-3912-4e2e-b757-38dfaa1cff0d)
 
-![jenkins3](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/4c2c2414-3b28-44b0-8ecc-67cf75a3cb1a)
+![codespace4](https://github.com/mohammedshahil/Odoo-Codespace/assets/33252126/a18f8bf9-86c3-4aca-8520-2cd93d1c5450)
